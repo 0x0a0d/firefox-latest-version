@@ -1,0 +1,16 @@
+{
+  "name": "firefox-latest-version",
+  "version": "1.0.0",
+  "description": "get firefox latest versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/0x0a0d/firefox-latest-version",
+    "type": "git"
+  },
+  "keywords": ["firefox", "latest", "version"],
+  "author": "0x0a0d",
+  "license": "ISC"
+}
